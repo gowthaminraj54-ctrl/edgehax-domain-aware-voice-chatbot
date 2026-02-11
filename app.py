@@ -18,7 +18,7 @@ def speak(text):
     tts.runAndWait()
 
 # Load knowledge
-chunks = load_knowledge("data/college_rules.txt")
+chunks = load_knowledge("college_rules.txt")
 
 def ask_llm(context, question):
     prompt = f"""
