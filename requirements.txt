@@ -1,0 +1,7 @@
+ollama
+openai-whisper
+pyttsx3
+speechrecognition
+faiss-cpu
+sentence-transformers
+numpy
